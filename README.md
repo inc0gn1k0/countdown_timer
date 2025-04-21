@@ -24,13 +24,6 @@ Designed for easy embedding in WordPress (or any HTML-based CMS), this countdown
    - The `targetISO` variable to set your target date.
    - The `--tile-opacity` CSS variable to adjust background transparency.
 
----
-
-## 📦 File Structure
-
-📁 countdown/
-└── countdown.html  # Full HTML block ready to embed
-
 
 ---
 
